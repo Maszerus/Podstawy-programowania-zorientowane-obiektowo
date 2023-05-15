@@ -7,6 +7,6 @@ namespace
 {
     public class Test
     {
-        
+        mała zmiana
     }
 }
